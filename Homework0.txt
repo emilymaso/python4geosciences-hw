@@ -1,0 +1,12 @@
+Homework 0: Emily Mason
+
+
+1. Get Python3: Done (checked in class).
+
+2. Git and Jupyter notebooks: This file was made in Jupyter.
+
+3. Create Homework:
+    A) http://github.com/emilymaso/python4geosciences-hw
+    B) see hw0-solution.ipynb
+    
+    
